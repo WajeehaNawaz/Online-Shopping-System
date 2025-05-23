@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\OOPS\Final semester project\Online Shopping System Final Project\main.cpp(9,11): error C2374: 'MAX_PRODUCTS': redefinition; multiple initialization
+C:\OOPS\Final semester project\Online Shopping System Final Project\onlineshopping.h(10,11): message : see declaration of 'MAX_PRODUCTS'
+C:\OOPS\Final semester project\Online Shopping System Final Project\main.cpp(10,11): error C2374: 'MAX_USERS': redefinition; multiple initialization
+C:\OOPS\Final semester project\Online Shopping System Final Project\onlineshopping.h(11,11): message : see declaration of 'MAX_USERS'
